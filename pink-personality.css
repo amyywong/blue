@@ -1,0 +1,29 @@
+body{
+  background-color: #ee40b3;
+}
+h1{
+font-family: 'Bebas Neue', cursive;
+  position: absolute;
+  left: 40%;
+  top: 12%;
+  font-size: 200px;
+}
+
+
+h2{
+  font-family: 'Bebas Neue', cursive;
+  position: absolute;
+  font-size: 30px;
+  top: 55%;
+  left: 35%;
+}
+
+.info{
+  position: absolute;
+  top: 65%;
+  left: 35%;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  width: 450px;
+
+}
